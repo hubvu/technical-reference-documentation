@@ -13,7 +13,7 @@ PROFROLE="sbp"
 ##
 
 # Main Document 
-MAIN="kubernetes_gs_rancher-k3s-slemicro_embedded-retail.adoc"
+MAIN="kubernetes_gs_rancher-k3s-slemicro_embedded_retail.adoc"
 
 # Format Type
 ADOC_TYPE="article"
